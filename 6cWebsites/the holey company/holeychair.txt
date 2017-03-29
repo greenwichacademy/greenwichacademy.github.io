@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<style>
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+
+nav {
+    
+    padding: 3em;
+    font-size:200%;
+    text-align:center;
+}
+
+
+
+article {
+    margin-left: 170px;
+    padding: 1em;
+    text-align:center; 
+}
+</style>
+
+</head>
+
+
+
+<body>
+
+<header>
+   <h1>HOLEY CHAIR</h1>
+</header>
+
+<nav>
+	<a href="#">Products</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="aboutourcompany.html">About Our Company</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="index.html">Home Page</a>
+	
+
+  
+  
+  
+
+<article>
+    </h1>
+    </p></h1>
+  </article>
+  
+
+<footer>Copyright &copy; W3Schools.com</footer>
+
+
+</body>
+
+
+</html>
