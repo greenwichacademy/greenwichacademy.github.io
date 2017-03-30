@@ -1,0 +1,61 @@
+<html>
+
+<head>
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+
+
+
+
+<style>
+
+header, footer {
+    padding: 1em;
+    color:white;
+    background-color: #4286f4;
+}
+
+nav {
+    float: left;
+    width: 70px;
+    padding: 3em;
+}
+
+
+
+article {
+    margin-left: 170px;
+    padding: 1em;
+}
+</style>
+
+</head>
+
+
+
+<body>
+
+<header>
+   <h1>Save Our Endangered Arctic Friends!</h1>
+</header>
+  
+<nav>
+    <a href="#">Penguins</a> <BR>
+    <a href="polar bears.html">Polar Bears</a> <BR>
+    <a href="#">About us </a> <BR>
+     <a href="#">How to help </a> <BR>
+    
+</nav>
+
+<article>
+  <h1>Who We Are</h1>
+  <p></p>
+  <p>Hello! Save Our Endangered Arctic Friends (SOEAF) is a non-profit organization devoted to helping all the  poor arctic animals survive the tough times due to global warming. </p>
+</article>
+
+<footer>Copyright &copy; SaveOurFriends.org </footer>
+
+
+</body>
+
+
+</html>
